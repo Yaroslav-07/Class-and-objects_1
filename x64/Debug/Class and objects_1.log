@@ -1,0 +1,4 @@
+﻿  Class and objects_1.cpp
+D:\C++\HomeWork\Class and objects_1\Class and objects_1.cpp(27,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\C++\HomeWork\Class and objects_1\Class and objects_1.cpp(34,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Class and objects_1.vcxproj -> D:\C++\HomeWork\Class and objects_1\x64\Debug\Class and objects_1.exe
